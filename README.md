@@ -91,7 +91,6 @@ O script principal carregará automaticamente as habilidades do CSV `ConjuntoDeD
 - Seleção gulosa e heurísticas são comparadas com soluções ótimas ou determinísticas quando aplicável.
 - Métricas de tempo e memória são calculadas usando `psutil` para controle de desempenho do sistema.
 
-## Autor e Licença
-
+## Autor
 - Autor: Gustavo Viega
 - Autor: Kaio Drago
