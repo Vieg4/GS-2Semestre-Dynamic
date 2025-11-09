@@ -91,6 +91,16 @@ O script principal carregará automaticamente as habilidades do CSV `ConjuntoDeD
 - Seleção gulosa e heurísticas são comparadas com soluções ótimas ou determinísticas quando aplicável.
 - Métricas de tempo e memória são calculadas usando `psutil` para controle de desempenho do sistema.
 
+## Referencias
+
+- Materiais e documentações utilizados em aula
+- https://pbpython.com/monte-carlo.html
+- https://medium.com/@whystudying/monte-carlo-simulation-with-python-13e09731d500
+- [https://pt.stackoverflow.com/questions/581723/estratégia-gulosa-python](https://pt.stackoverflow.com/questions/581723/estrat%C3%A9gia-gulosa-python)
+- https://pc.oberlan.com/buscaexaustiva/
+- https://www.alura.com.br/artigos/algoritmo-mergesort-implementar-python
+- [https://medium.com/@gabrielluizone/descobrindo-a-eficácia-da-busca-heurística-0772a5fae145](https://medium.com/@gabrielluizone/descobrindo-a-efic%C3%A1cia-da-busca-heur%C3%ADstica-0772a5fae145)
+
 ## Autor
 - Autor: Gustavo Viega
 - Autor: Kaio Drago
