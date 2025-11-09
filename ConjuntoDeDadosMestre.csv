@@ -1,0 +1,13 @@
+ID,Nome,Tempo,Valor,Complexidade,Pre_Reqs
+S1,Programação Básica (Python),80,3,4,
+S2,Modelagem de Dados (SQL),60,4,3,
+S3,Algoritmos Avançados,100,7,8,S1
+S4,Fundamentos de Machine Learning,120,8,9,"S1,S3"
+S5,Visualização de Dados (BI),40,6,5,S2
+S6,IA Generativa Ética,150,10,10,S4
+S7,Estruturas em Nuvem (AWS/Azure),70,5,7,
+S8,APIs e Microsserviços,90,6,6,S1
+S9,DevOps & CI/CD,110,9,8,"S7,S8"
+H10,Segurança de Dados,60,5,6,
+H11,Análise de Big Data,90,8,8,S4
+H12,Introdução a IoT,30,3,3,
