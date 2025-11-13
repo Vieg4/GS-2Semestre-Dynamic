@@ -104,3 +104,4 @@ O script principal carregará automaticamente as habilidades do CSV `ConjuntoDeD
 ## Autor
 - Autor: Gustavo Viega
 - Autor: Kaio Drago
+- Autor: Felipe Marques
